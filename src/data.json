@@ -1,0 +1,43 @@
+[
+    {
+      "applicantId": "A001",
+      "name": "John Doe",
+      "connectionType": "Residential",
+      "loadApplied": 150,
+      "status": "Pending",
+      "dateOfApplication": "2024-01-12",
+      "govtIdType": "Aadhar",
+      "govtIdNumber": "123456789012"
+    },
+    {
+      "applicantId": "A002",
+      "name": "Jane Smith",
+      "connectionType": "Commercial",
+      "loadApplied": 180,
+      "status": "Approved",
+      "dateOfApplication": "2024-03-22",
+      "govtIdType": "PAN",
+      "govtIdNumber": "ABC1234XYZ"
+    },
+    {
+      "applicantId": "A003",
+      "name": "Michael Johnson",
+      "connectionType": "Residential",
+      "loadApplied": 90,
+      "status": "Rejected",
+      "dateOfApplication": "2024-06-05",
+      "govtIdType": "Aadhar",
+      "govtIdNumber": "987654321098"
+    },
+    {
+      "applicantId": "A004",
+      "name": "Sarah Brown",
+      "connectionType": "Industrial",
+      "loadApplied": 200,
+      "status": "Pending",
+      "dateOfApplication": "2024-09-15",
+      "govtIdType": "Voter ID",
+      "govtIdNumber": "VOTER098765"
+    }
+  ]
+  
